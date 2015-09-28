@@ -1,0 +1,11 @@
+{
+    "name": "ncaneldiee/sampadeh",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sampadeh\\": "src/Sampadeh/"
+        }
+    }
+}
